@@ -3,7 +3,7 @@
 🔗 **Live Website:** https://habit-tracker-584de.web.app
 
 ## 🌐 Backend Repo
-🔗 **Github URL:**   https://github.com/Rakibul29h/Habit_Tracker_Server
+🔗 **Github URL:**   https://github.com/Arefin-Faysal/Habit_Tracker_Server
 
 HabitTracker is a full-stack habit tracking web application that helps users create, manage, and maintain daily habits while building strong streaks to boost productivity and consistency.
 
